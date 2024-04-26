@@ -9,4 +9,4 @@ Registerd faces would have green boxes around them .
 Unknown (not registered) faces would have red boxes around them .
 
 
-Create your Twilio account and add the nessecary tokens in the '' empty spaces in the m2.py file 
+Create your Twilio account and add the nessecary tokens in the '' empty spaces in the door.py file 
